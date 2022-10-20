@@ -95,14 +95,4 @@ The Shiny App developed for the Capstone project is shown below along with instr
 
 
 
-***
-<font size="4">
-</span><center> 
 
-*Screenshot of Shiny App*
-
-</font>
-
-<img src="app.JPG"></img> 
-
-</center></span>
